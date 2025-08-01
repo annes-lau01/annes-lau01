@@ -1,14 +1,14 @@
 <h1 align="center">Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Johanes Kevin</h1>
-<h3 align="center">A passionate Frontend Developer from indonesia.</h3>
+<h3 align="center">A passionate Data Analyst from indonesia.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning ReactJS, TailwindCSS, Vite
-- 👯 I’m looking to collaborate as Web Developer
-- 👨‍💻 All of my projects are available at [github.com/DevisWisley](https://github.com/DevisWisley?tab=repositories)
-- 📫 How to reach me: deviswisley27@gmail.com
-- ⚡ Fun fact **I am funny😅**
+- 🔭 &nbsp;I'm currently working on something cool :wink:
+- 🌱 &nbsp;I'm currently learning JavaScript, Python, SQL
+- 👯 I'd love to collaborate as a Data Analyst
+- 👨‍💻 All of my projects are available at [github.com/annes-lau01](https://github.com/annes-lau01?tab=repositories)
+- 📫 How to reach me: johanesmalau38410@gmail.com
+- ⚡ Fun fact **I'm serious but easygoing😃**
 - 💬 Ask me about anything
 
 <center>
