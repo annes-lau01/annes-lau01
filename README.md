@@ -13,7 +13,7 @@
 
 <center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF4488&center=true&vCenter=true&width=435&lines=Welcome+here+to+my+Github;I'am+Devis+Wisley;Web+Developer;UI/UX+Web+Design;Front-End+Developer;Soon+to+be+a+Full+Stack+Developer;.+.+.;%3D%3D%3D%5B+Have+a+nice+coding!+%5D%3D%3D%3D;%E2%9D%A3%EF%B8%8F+%E2%9D%A3%EF%B8%8F+%E2%9D%A3%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF4488&center=true&vCenter=true&width=435&lines=Welcome+here+to+my+Github;I'am+Johanes+Kevin;Data+Analyst;Database+Administrator;Back-End+Developer;Soon+to+be+a+Full+Stack+Developer;.+.+.;%3D%3D%3D%5B+Have+a+nice+coding!+%5D%3D%3D%3D;%E2%9D%A3%EF%B8%8F+%E2%9D%A3%EF%B8%8F+%E2%9D%A3%EF%B8%8F)](https://git.io/typing-svg)
 
 </center>
 
